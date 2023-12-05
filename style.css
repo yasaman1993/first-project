@@ -1,0 +1,189 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Hedvig Letters Serif", serif;
+  min-height: 100vh;
+  margin: 0;
+  justify-content: space-evenly;
+  font-size: 20px;
+}
+
+.main-header {
+  border: 2px solid pink;
+  height: 100vh;
+  background-image: url(https://images4.alphacoders.com/778/778614.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  font-size: 200%;
+}
+
+nav a {
+  font-size: 20px;
+  padding: 15px;
+  margin: 15px;
+  color: black;
+}
+
+nav a:hover {
+  color: purple;
+}
+
+#about-id {
+  background-color: #d49dcc;
+}
+#destinations-id {
+  background-color: #f2d1c9;
+}
+#gallery-id {
+  background-color: #e086d3;
+}
+#contact-id {
+  background-color: #f2d1c9;
+}
+
+h2 {
+  padding: 15px 15px 5px 15px;
+  margin: 15px;
+  text-shadow: 3px 3px 3px #cc7dc0;
+}
+
+.hamburg-sign {
+  align-items: flex-end;
+  padding: 2px 20px;
+  margin: 2px 20px;
+  width: 170px;
+}
+
+h3 {
+  padding: 20px 20px;
+  margin: 20px 20px;
+}
+
+.first-paragraph {
+  padding: 20px;
+  margin: 20px;
+  text-align: justify;
+}
+
+.church {
+  padding: 10px 10px;
+  margin: 0 40px 0 40px;
+  height: 40vh;
+  border: 5px solid #c9a3e6;
+  border-radius: 9px;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.second-paragraph {
+  padding: 20px;
+  margin: 20px;
+  text-align: justify;
+}
+
+.Elbphilharmonie {
+  padding: 10px 10px;
+  margin: 0 40px 0 40px;
+  height: 40vh;
+  border: 5px solid #c9a3e6;
+  border-radius: 9px;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.third-paragraph {
+  padding: 20px;
+  margin: 20px;
+  text-align: justify;
+}
+
+.city-hall {
+  padding: 10px 10px;
+  margin: 0 40px 0 40px;
+  height: 40vh;
+  border: 5px solid #c9a3e6;
+  border-radius: 9px;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.fourth-paragraph {
+  padding: 20px;
+  margin: 20px;
+  text-align: justify;
+}
+
+.video {
+  padding: 20px 20px;
+  margin: 0 20px 0 20px;
+}
+
+.gallery-photos {
+  padding: 20px 20px;
+  margin: 20px 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 40vh;
+}
+
+.hamburg1 {
+  padding: 10px 10px;
+  margin: 10px 10px;
+  border: 5px solid #c9a3e6;
+  border-radius: 9px;
+  width: 250px;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hamburg2 {
+  padding: 10px 10px;
+  margin: 10px 10px;
+  border: 5px solid #c9a3e6;
+  border-radius: 9px;
+  width: 250px;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hamburg3 {
+  padding: 10px 10px;
+  margin: 10px 10px;
+  border: 5px solid #c9a3e6;
+  border-radius: 9px;
+  width: 250px;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hamburg4 {
+  padding: 10px 10px;
+  margin: 10px 10px;
+  border: 5px solid #c9a3e6;
+  border-radius: 9px;
+  width: 300px;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.map {
+  padding: 20px 20px;
+  margin: 20px 20px;
+}
